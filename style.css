@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(fonts/Roboto);
+}
+.vlog{
+    background-color: black;
+    color: gold;
+    font-size: 26px;
+    border: 2px; 
+}
+.below{
+    background-color: black;
+    font-style: italic;
+    font-size: x-large;
+}
